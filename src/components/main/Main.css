@@ -1,0 +1,30 @@
+.counter {
+  text-align: center;
+  color: #F27C0F;
+  font-size: 288px;
+  margin: 30px 0;
+}
+.buttons {
+  margin: 0 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.firstButton,
+.secondButton,
+.thirdButton {
+  width: 200px;
+  height: 58px;
+  font-size: 24px;
+  font-weight: 500;
+  border: none;
+  border-radius: 4px;
+  background-color: #003399;
+  color: white;
+}
+.secondButton {
+  background-color: #F27C0F;
+}
+.thirdButton {
+  background-color: #E5E5E5;
+  color: #000000;
+}

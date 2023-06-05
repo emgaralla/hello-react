@@ -1,0 +1,27 @@
+.footer {
+  margin-top: 185px;
+  height: 98px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.subLogo {
+  width: 112px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+}
+.subUlMenu {
+  color: rgba(0, 0, 0, 0.5);
+  width: 339px;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.subUlMenu li {
+  font-size: 16px;
+}
+.copyright {
+  color: rgba(0, 0, 0, 0.5);
+}
